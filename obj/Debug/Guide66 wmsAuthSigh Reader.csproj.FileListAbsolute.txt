@@ -1,0 +1,10 @@
+g:\Documents\Visual Studio 2017\Projects\Guide66 wmsAuthSigh Reader\Guide66 wmsAuthSigh Reader\bin\Debug\Guide66 wmsAuthSigh Reader.exe.config
+g:\Documents\Visual Studio 2017\Projects\Guide66 wmsAuthSigh Reader\Guide66 wmsAuthSigh Reader\bin\Debug\Guide66 wmsAuthSigh Reader.exe
+g:\Documents\Visual Studio 2017\Projects\Guide66 wmsAuthSigh Reader\Guide66 wmsAuthSigh Reader\bin\Debug\Guide66 wmsAuthSigh Reader.pdb
+g:\Documents\Visual Studio 2017\Projects\Guide66 wmsAuthSigh Reader\Guide66 wmsAuthSigh Reader\obj\Debug\Guide66 wmsAuthSigh Reader.csprojAssemblyReference.cache
+g:\Documents\Visual Studio 2017\Projects\Guide66 wmsAuthSigh Reader\Guide66 wmsAuthSigh Reader\obj\Debug\Guide66_wmsAuthSigh_Reader.Form1.resources
+g:\Documents\Visual Studio 2017\Projects\Guide66 wmsAuthSigh Reader\Guide66 wmsAuthSigh Reader\obj\Debug\Guide66_wmsAuthSigh_Reader.Properties.Resources.resources
+g:\Documents\Visual Studio 2017\Projects\Guide66 wmsAuthSigh Reader\Guide66 wmsAuthSigh Reader\obj\Debug\Guide66 wmsAuthSigh Reader.csproj.GenerateResource.cache
+g:\Documents\Visual Studio 2017\Projects\Guide66 wmsAuthSigh Reader\Guide66 wmsAuthSigh Reader\obj\Debug\Guide66 wmsAuthSigh Reader.csproj.CoreCompileInputs.cache
+g:\Documents\Visual Studio 2017\Projects\Guide66 wmsAuthSigh Reader\Guide66 wmsAuthSigh Reader\obj\Debug\Guide66 wmsAuthSigh Reader.exe
+g:\Documents\Visual Studio 2017\Projects\Guide66 wmsAuthSigh Reader\Guide66 wmsAuthSigh Reader\obj\Debug\Guide66 wmsAuthSigh Reader.pdb
