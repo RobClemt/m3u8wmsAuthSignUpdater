@@ -94,7 +94,7 @@ namespace m3u8wmsAuthSignUpdater
             string httpContent = File.ReadAllText(httpDownload);
             var result = Regex.Match(httpContent, "wmsAuthSign=(.*)");
             string strResult = result.ToString();
-            strResult = strResult.Remove(strResult.Length - 3);
+            //strResult = strResult.Remove(strResult.Length - 3);////TESTING
             strAuthsignPath = strResult;
         }
         void getOldAuthSign()
